@@ -4,13 +4,13 @@ set -o nounset
 set -o errexit
 
 which rg > /dev/null || (echo "No ripgrep found, exit" && exit 1)
-[[ ! -d ../elementum ]] && (echo "No elementum folder found, exit" && exit 1)
+[[ ! -d ../lt2http ]] && (echo "No lt2http folder found, exit" && exit 1)
 
 grep -oP 'msgctxt "#\K\d+' resources/language/messages.pot > ids.pot
 
 while read -r line; do rg -q -g '!*.po' -g '!*.pot' $line . || echo $line; done < ids.pot > orphaned_ids.pot
 
-while read -r line; do rg -q -g '!*.po' -g '!*.pot' $line ../elementum || echo $line; done < orphaned_ids.pot > not_found_ids.pot
+while read -r line; do rg -q -g '!*.po' -g '!*.pot' $line ../lt2http || echo $line; done < orphaned_ids.pot > not_found_ids.pot
 
 find resources/ -name "*.po*" |
 while read -r file
