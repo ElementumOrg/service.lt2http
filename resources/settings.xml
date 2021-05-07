@@ -32,14 +32,6 @@
         <setting type="sep"/>
         <setting id="torrents_path" type="folder" label="30451" default="special://temp/lt2http_torrents/" source="auto" option="writeable" />
 
-    </category>
-    <category label="30326">
-        <!-- General -->
-        <setting label="30000" type="lsep" />
-        <setting id="library_enabled" type="bool" label="30585" default="true" />
-        <setting type="text" label="30586" enable="false" />
-    </category>
-    <category label="BitTorrent">
         <!-- BitTorrent -->
         <setting label="30588" type="lsep" />
         <setting id="buffer_size" label="30578" type="number" default="20" />
