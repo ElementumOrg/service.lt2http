@@ -4,6 +4,7 @@
         <import addon="xbmc.addon" version="16.0.0" />
         <import addon="repository.elementum" optional="true" />
         <import addon="script.module.kodi-six" />
+        <import addon="script.module.requests" />
     </requires>
     <extension point="xbmc.service" library="service.py" start="startup" />
     <extension point="xbmc.python.module" library="resources/site-packages" />
