@@ -6,6 +6,7 @@
         <import addon="script.module.kodi-six" />
         <import addon="script.module.requests" />
     </requires>
+    <extension point="xbmc.python.pluginsource" library="navigation.py" />
     <extension point="xbmc.service" library="service.py" start="startup" />
     <extension point="xbmc.python.module" library="resources/site-packages" />
     <extension point="xbmc.addon.metadata">
