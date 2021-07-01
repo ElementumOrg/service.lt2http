@@ -12,6 +12,9 @@ Support
 What it is
 ----------
 service.lt2http is a Kodi addon wrapper for [lt2http](https://github.com/ElementumOrg/lt2http/) application. 
+There is no Kodi interface yet, addons acts like a lt2http service starter and updates the settings, according to Kodi addon settings.
+
+I would appreciate if someone would like to add a simple browsing functionality in Python, to be able to list active torrents, or add file, start/stop/pause/delete torrent, etc..
 
 Supported platforms
 -------------------
