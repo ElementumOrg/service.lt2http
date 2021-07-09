@@ -112,5 +112,7 @@
         <setting id="local_port" label="30409" type="number" default="65225" />
         <setting id="remote_host" label="30411" type="text" default="127.0.0.1" />
         <setting id="remote_port" label="30410" type="number" default="65225" />
+        <setting id="web_login" label="30659" type="text" default="" />
+        <setting id="web_password" label="30660" type="text" default="" />
     </category>
 </settings>

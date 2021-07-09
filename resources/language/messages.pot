@@ -860,3 +860,11 @@ msgstr ""
 msgctxt "#30658"
 msgid "Downloading required binary file for '%s'"
 msgstr ""
+
+msgctxt "#30659"
+msgid "Authentication Login"
+msgstr ""
+
+msgctxt "#30660"
+msgid "Authentication Password"
+msgstr ""
