@@ -86,7 +86,9 @@
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
         <setting id="use_libtorrent_config" label="30503" type="bool" default="true" />
         <setting type="text" label="30504" enable="false" />
-        <setting id="magnet_trackers" label="30507" type="enum" lvalues="30508|30509|30510" default="2" />
+        <setting id="remove_original_trackers" label="30662" type="bool" default="false" />
+        <setting id="add_extra_trackers" label="30658" type="enum" lvalues="30635|30659|30660|30661" default="2" />
+        <setting id="modify_trackers_strategy" label="30664" type="enum" lvalues="30665|30666" default="0" />
         <setting id="use_libtorrent_logging" label="30506" type="bool" default="false" />
         <setting id="libtorrent_profile" label="30511" type="enum" lvalues="30512|30513|30514" default="0" />
         <!-- <setting id="use_libtorrent_deadline" label="30518" type="bool" default="true" /> -->
@@ -112,7 +114,7 @@
         <setting id="local_port" label="30409" type="number" default="65225" />
         <setting id="remote_host" label="30411" type="text" default="127.0.0.1" />
         <setting id="remote_port" label="30410" type="number" default="65225" />
-        <setting id="web_login" label="30659" type="text" default="" />
-        <setting id="web_password" label="30660" type="text" default="" />
+        <setting id="web_login" label="30668" type="text" default="" />
+        <setting id="web_password" label="30669" type="text" default="" />
     </category>
 </settings>

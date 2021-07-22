@@ -847,5 +847,45 @@ msgid "Disable LSD"
 msgstr "Отключить LSD"
 
 msgctxt "#30658"
+msgid "Add extra trackers"
+msgstr "Добавлять доп. трекеры"
+
+msgctxt "#30659"
+msgid "All known trackers"
+msgstr "Все известные трекеры"
+
+msgctxt "#30660"
+msgid "Best trackers"
+msgstr "Лучшие трекеры"
+
+msgctxt "#30661"
+msgid "Minimum set"
+msgstr "Минимальный набор"
+
+msgctxt "#30662"
+msgid "Remove original trackers from torrent"
+msgstr "Удалять оригинальные трекеры из торрента"
+
+msgctxt "#30664"
+msgid "Modify trackers in torrent"
+msgstr "Модифицировать трекеры в торренте"
+
+msgctxt "#30665"
+msgid "At the time of adding"
+msgstr "В момент добавления"
+
+msgctxt "#30666"
+msgid "Every time"
+msgstr "Каждый раз"
+
+msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
 msgstr ""
+
+msgctxt "#30668"
+msgid "Authentication Login"
+msgstr "Логин для авторизации"
+
+msgctxt "#30669"
+msgid "Authentication Password"
+msgstr "Пароль для авторизации"
