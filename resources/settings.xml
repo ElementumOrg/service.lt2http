@@ -6,32 +6,6 @@
         <setting id="binary_platform" label="30611" type="select" values="Auto|android-arm|android-arm64|android-x86|android-x64|linux-armv6|linux-armv7|linux-arm64|linux-x86|linux-x64|darwin-x86|darwin-x64|windows-x86|windows-x64" default="Auto" />
         <setting type="action" label="30620" option="close" action="RunPlugin(plugin://service.lt2http/restart/)" />
 
-        <!-- Storage -->
-        <setting label="30327" type="lsep" />
-        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317" default="1" />
-          <setting id="auto_memory_size" label="30376" type="bool" default="true" />
-          <setting type="text" label="30377" enable="false" visible="eq(-2,1)" />
-
-          <setting id="auto_memory_size_strategy" type="enum" label="30378" lvalues="30380|30381|30382" default="1" enable="eq(-2,true)" />
-          <setting type="text" label="30379" enable="false" visible="eq(-4,1)" />
-
-          <setting id="memory_size" label="30318" type="number" default="100" enable="eq(-4,false)" />
-          <setting id="auto_adjust_memory_size" label="30499" type="bool" default="true" />
-
-          <setting type="text" label="30348" enable="false" visible="eq(-7,0)" />
-          <setting type="text" label="30349" enable="false" visible="eq(-8,1)" />
-          <setting type="text" label="30350" enable="false" visible="eq(-9,1)" />
-          <setting type="text" label="30351" enable="false" visible="eq(-10,2)" />
-          <setting type="text" label="30352" enable="false" visible="eq(-11,3)" />
-
-        <setting id="download_file_strategy" type="enum" label="30653" lvalues="30654|30655|30656" default="0" />
-
-        <setting type="sep"/>
-        <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
-
-        <setting type="sep"/>
-        <setting id="torrents_path" type="folder" label="30451" default="special://temp/lt2http_torrents/" source="auto" option="writeable" />
-
         <!-- BitTorrent -->
         <setting label="30588" type="lsep" />
         <setting id="buffer_size" label="30578" type="number" default="20" />
@@ -61,25 +35,6 @@
         <setting id="seed_time_ratio_limit" label="30052" type="number" default="700" />
         <setting id="seed_time_limit" label="30053" type="number" default="24" />
 
-        <setting label="30594" type="lsep" />
-        <setting id="disable_dht" label="30050" type="bool" default="false" />
-        <setting id="disable_lsd" label="30657" type="bool" default="false" />
-        <setting id="disable_tcp" label="30328" type="bool" default="false" />
-        <setting id="disable_utp" label="30329" type="bool" default="false" />
-        <setting id="disable_upnp" label="30063" type="bool" default="false" />
-        <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
-        <setting id="listen_interfaces" label="30090" type="text" default="" enable="eq(-1,false)" />
-        <setting id="outgoing_interfaces" label="30091" type="text" default="" subsetting="true" enable="eq(-2,false)" />
-        <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
-        <setting id="listen_port_min" label="30006" type="number" default="6891" enable="eq(-1,false)" />
-        <setting id="listen_port_max" label="30007" type="number" default="6899" enable="eq(-2,false)" />
-        <setting id="magnet_resolve_timeout" label="30610" type="slider" option="int" range="1,1,600" default="40" />
-
-        <setting label="30327" type="lsep" />
-        <setting type="text" label="30598" enable="false" />
-        <setting id="tuned_storage" label="30086" type="bool" default="true" />
-        <setting id="disk_cache_size" label="30597" type="number" enable="eq(-1,true)" default="12" />
-
         <setting label="30595" type="lsep" />
         <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
@@ -94,6 +49,54 @@
         <!-- <setting id="use_libtorrent_deadline" label="30518" type="bool" default="true" /> -->
         <setting id="use_libtorrent_pauseresume" label="30519" type="bool" default="false" />
     </category>
+
+    <!-- Storage -->
+    <category label="30327">
+        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317" default="1" />
+          <setting id="auto_memory_size" label="30376" type="bool" default="true" />
+          <setting type="text" label="30377" enable="false" visible="eq(-2,1)" />
+
+          <setting id="auto_memory_size_strategy" type="enum" label="30378" lvalues="30380|30381|30382" default="1" enable="eq(-2,true)" />
+          <setting type="text" label="30379" enable="false" visible="eq(-4,1)" />
+
+          <setting id="memory_size" label="30318" type="number" default="100" enable="eq(-4,false)" />
+          <setting id="auto_adjust_memory_size" label="30499" type="bool" default="true" />
+
+          <setting type="text" label="30348" enable="false" visible="eq(-7,0)" />
+          <setting type="text" label="30349" enable="false" visible="eq(-8,1)" />
+          <setting type="text" label="30350" enable="false" visible="eq(-9,1)" />
+          <setting type="text" label="30351" enable="false" visible="eq(-10,2)" />
+          <setting type="text" label="30352" enable="false" visible="eq(-11,3)" />
+
+        <setting id="download_file_strategy" type="enum" label="30653" lvalues="30654|30655|30656" default="0" />
+
+        <setting type="sep"/>
+        <setting id="download_path" type="folder" label="30001" default="special://temp/lt2http_downloads/" source="auto" option="writeable" />
+
+        <setting type="sep"/>
+        <setting id="torrents_path" type="folder" label="30451" default="special://temp/lt2http_torrents/" source="auto" option="writeable" />
+
+        <setting type="sep"/>
+        <setting type="text" label="30598" enable="false" />
+        <setting id="tuned_storage" label="30086" type="bool" default="true" />
+        <setting id="disk_cache_size" label="30597" type="number" enable="eq(-1,true)" default="12" />
+    </category>
+
+    <category label="30594">
+        <setting id="disable_dht" label="30050" type="bool" default="false" />
+        <setting id="disable_lsd" label="30657" type="bool" default="false" />
+        <setting id="disable_tcp" label="30328" type="bool" default="false" />
+        <setting id="disable_utp" label="30329" type="bool" default="false" />
+        <setting id="disable_upnp" label="30063" type="bool" default="false" />
+        <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
+        <setting id="listen_interfaces" label="30090" type="text" default="" enable="eq(-1,false)" />
+        <setting id="outgoing_interfaces" label="30091" type="text" default="" subsetting="true" enable="eq(-2,false)" />
+        <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
+        <setting id="listen_port_min" label="30006" type="number" default="6891" enable="eq(-1,false)" />
+        <setting id="listen_port_max" label="30007" type="number" default="6899" enable="eq(-2,false)" />
+        <setting id="magnet_resolve_timeout" label="30610" type="slider" option="int" range="1,1,600" default="40" />
+    </category>
+
     <!-- Proxy -->
     <category label="30008">
     <setting label="30490" type="lsep" />
@@ -108,6 +111,8 @@
           <setting id="use_proxy_tracker" label="30493" type="bool" default="true" subsetting="true" enable="eq(-7,true)" />
           <setting id="use_proxy_download" label="30494" type="bool" default="true" subsetting="true" enable="eq(-8,true)" />
     </category>
+    
+    <!-- Additional -->
     <category label="30015">
         <!-- Connectivity -->
         <setting label="30408" type="lsep" />
