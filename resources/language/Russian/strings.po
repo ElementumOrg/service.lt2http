@@ -238,16 +238,16 @@ msgstr "Отключить звук уведомлений"
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Сбой Elementum, перезапуск..."
+msgid "lt2http has crashed, restarting..."
+msgstr "Сбой lt2http, перезапуск..."
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Это дополнение можно запустить только через Elementum"
+msgid "This add-on can only be run from within lt2http"
+msgstr "Это дополнение можно запустить только через lt2http"
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr "Elementum binary не найден[CR]Требуемая платформа:"
+msgid "Unable to find lt2http binary[CR]Required platform:"
+msgstr "lt2http binary не найден[CR]Требуемая платформа:"
 
 msgctxt "#30106"
 msgid "File"
@@ -619,8 +619,8 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr "Использовать libtorrent.config для настроек движка torrent"
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr "Находится в файле USERDATA/plugin.video.elementum/libtorrent.config[CR]Применяются автоматически. Смотри https://libtorrent.org"
+msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgstr "Находится в файле USERDATA/service.lt2http/libtorrent.config[CR]Применяются автоматически. Смотри https://libtorrent.org"
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -739,8 +739,8 @@ msgid "Enable library integration with Kodi"
 msgstr "Включить интеграцию с библиотекой Kodi"
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
-msgstr "Если выключено - Elementum не будет получать/добавлять[CR]в библиотеку Kodi и не будет управлять[CR]просмотренным в Kodi."
+msgid "If disabled - lt2http will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgstr "Если выключено - lt2http не будет получать/добавлять[CR]в библиотеку Kodi и не будет управлять[CR]просмотренным в Kodi."
 
 msgctxt "#30587"
 msgid "Show welcome message on start"
@@ -811,8 +811,8 @@ msgid "Return to [B]%s[/B]"
 msgstr "Вернуться к [B]%s[/B]"
 
 msgctxt "#30620"
-msgid "Restart Elementum addon"
-msgstr "Перезапустить Elementum"
+msgid "Restart lt2http addon"
+msgstr "Перезапустить lt2http"
 
 msgctxt "#30622"
 msgid "Checking"

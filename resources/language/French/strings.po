@@ -244,16 +244,16 @@ msgstr "Désactiver la notification sonore"
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Plantage de Elementum, redémarrage..."
+msgid "lt2http has crashed, restarting..."
+msgstr ""
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Cet add-on ne peut être utilisé que depuis Elementum"
+msgid "This add-on can only be run from within lt2http"
+msgstr ""
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr "Impossible de trouver l’application Elementum[CR]Plateforme nécessaire :"
+msgid "Unable to find lt2http binary[CR]Required platform:"
+msgstr ""
 
 msgctxt "#30106"
 msgid "File"
@@ -628,7 +628,7 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr ""
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
 msgstr ""
 
 msgctxt "#30506"
@@ -748,7 +748,7 @@ msgid "Enable library integration with Kodi"
 msgstr ""
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgid "If disabled - lt2http will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
 msgstr ""
 
 msgctxt "#30587"
@@ -820,7 +820,7 @@ msgid "Return to [B]%s[/B]"
 msgstr ""
 
 msgctxt "#30620"
-msgid "Restart Elementum addon"
+msgid "Restart lt2http addon"
 msgstr ""
 
 msgctxt "#30622"
@@ -898,6 +898,19 @@ msgstr ""
 msgctxt "#30669"
 msgid "Authentication Password"
 msgstr ""
+
+# Interface
+#~ msgctxt "#30100"
+#~ msgid "Elementum has crashed, restarting..."
+#~ msgstr "Plantage de Elementum, redémarrage..."
+
+#~ msgctxt "#30102"
+#~ msgid "This add-on can only be run from within Elementum"
+#~ msgstr "Cet add-on ne peut être utilisé que depuis Elementum"
+
+#~ msgctxt "#30103"
+#~ msgid "Unable to find Elementum binary[CR]Required platform:"
+#~ msgstr "Impossible de trouver l’application Elementum[CR]Plateforme nécessaire :"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"

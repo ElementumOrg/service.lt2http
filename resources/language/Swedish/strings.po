@@ -241,16 +241,16 @@ msgstr "Inaktivera aviseringsljud"
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Elementum har kraschat, startar om..."
+msgid "lt2http has crashed, restarting..."
+msgstr ""
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Det här tillägget kan bara köras från Elementum"
+msgid "This add-on can only be run from within lt2http"
+msgstr ""
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr "Det gick inte att hitta Elementum-binär[CR]Nödvändig plattform:"
+msgid "Unable to find lt2http binary[CR]Required platform:"
+msgstr ""
 
 msgctxt "#30106"
 msgid "File"
@@ -622,8 +622,8 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr "Använd libtorrent.config för att åsidosätta inställningar för torrentmotor"
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr "Beläget vid USERDATA/plugin.video.elementum/libtorrent.config-fil[CR]Inställningarna tillämpas automatiskt. Besök https://libtorrent.org för information."
+msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgstr ""
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -742,8 +742,8 @@ msgid "Enable library integration with Kodi"
 msgstr "Aktivera biblioteksintegration med Kodi"
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
-msgstr "Om inaktiverad - Elementum kommer inte att hämta/infoga objekt[CR]till Kodi-biblioteket och hoppa över[CR]sett-hantering med Kodi."
+msgid "If disabled - lt2http will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgstr ""
 
 msgctxt "#30587"
 msgid "Show welcome message on start"
@@ -814,8 +814,8 @@ msgid "Return to [B]%s[/B]"
 msgstr "Återgå till [B]%s[/B]"
 
 msgctxt "#30620"
-msgid "Restart Elementum addon"
-msgstr "Starta om Elementum-tillägget"
+msgid "Restart lt2http addon"
+msgstr ""
 
 msgctxt "#30622"
 msgid "Checking"
@@ -892,3 +892,28 @@ msgstr ""
 msgctxt "#30669"
 msgid "Authentication Password"
 msgstr ""
+
+# Interface
+#~ msgctxt "#30100"
+#~ msgid "Elementum has crashed, restarting..."
+#~ msgstr "Elementum har kraschat, startar om..."
+
+#~ msgctxt "#30102"
+#~ msgid "This add-on can only be run from within Elementum"
+#~ msgstr "Det här tillägget kan bara köras från Elementum"
+
+#~ msgctxt "#30103"
+#~ msgid "Unable to find Elementum binary[CR]Required platform:"
+#~ msgstr "Det gick inte att hitta Elementum-binär[CR]Nödvändig plattform:"
+
+#~ msgctxt "#30504"
+#~ msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+#~ msgstr "Beläget vid USERDATA/plugin.video.elementum/libtorrent.config-fil[CR]Inställningarna tillämpas automatiskt. Besök https://libtorrent.org för information."
+
+#~ msgctxt "#30586"
+#~ msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+#~ msgstr "Om inaktiverad - Elementum kommer inte att hämta/infoga objekt[CR]till Kodi-biblioteket och hoppa över[CR]sett-hantering med Kodi."
+
+#~ msgctxt "#30620"
+#~ msgid "Restart Elementum addon"
+#~ msgstr "Starta om Elementum-tillägget"
