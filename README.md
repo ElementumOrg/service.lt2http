@@ -42,6 +42,10 @@ Build
 service.lt2http has only Python scripts to run the lt2http application from Kodi and stop gracefully.
 When new version is installed - proper binary is downloaded from GitHub.
 
+Release
+-------
+
+Release is done by `release.sh` script, that gets precompiled binaries, collects everything into module zip file and upload as a Github release.
 
 How it works
 ------------
