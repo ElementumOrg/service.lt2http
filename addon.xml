@@ -2,7 +2,7 @@
 <addon id="service.lt2http" name="lt2http" version="0.0.16" provider-name="ElementumOrg">
     <requires>
         <import addon="xbmc.addon" version="16.0.0" />
-        <import addon="repository.elementum" optional="true" />
+        <import addon="repository.elementumorg" optional="true" />
         <import addon="script.module.kodi-six" />
         <import addon="script.module.requests" />
     </requires>
