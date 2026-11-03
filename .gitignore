@@ -56,3 +56,5 @@ target/
 resources/bin/
 resources/web/static/js/*.map
 service.lt2http-*.zip
+resources/site-packages/platform_detect
+service.lt2http/resources/site-packages/platform_detect
