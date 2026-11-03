@@ -3,7 +3,7 @@ GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
 GIT_USER = ElementumOrg
 GIT_REPOSITORY = service.lt2http
-VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
+VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\+\-]*\)\"\sprovider.*/\1/p" addon.xml)
 ZIP_SUFFIX = zip
 ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 
@@ -15,14 +15,20 @@ all: clean zip
 # 	$(MAKE) clean_arch ZIP_SUFFIX=$@.zip
 # 	$(MAKE) zip ARCHS=$@ ZIP_SUFFIX=$@.zip
 
+# BINARIES=1 also packs the lt2http binaries from resources/bin/<os>-<arch>/ (the CI build does that)
+BINARIES ?=
+
 $(ZIP_FILE):
-	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
-	# mkdir -p $(NAME)/resources/bin
-	# for arch in $(ARCHS); do \
-	# 	cp -r `pwd`/$(DEV)/resources/bin/$$arch $(NAME)/resources/bin/$$arch; \
-	# 	zip -9 -r -g $(ZIP_FILE) $(NAME)/resources/bin/$$arch; \
-	# done
-	# rm -rf $(NAME)
+	rm -rf $(NAME)
+	mkdir $(NAME)
+	# Tracked files as they are in the working tree, so the version CI writes into addon.xml is kept
+	git ls-files -z ':!:resources/bin' | xargs -0 cp --parents -t $(NAME)
+ifdef BINARIES
+	mkdir -p $(NAME)/resources/bin
+	cp -r resources/bin/*-*/ $(NAME)/resources/bin/
+endif
+	zip -9 -r -q $(ZIP_FILE) $(NAME)
+	rm -rf $(NAME)
 
 zip: $(ZIP_FILE)
 
