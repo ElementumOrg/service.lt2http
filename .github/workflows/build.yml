@@ -66,8 +66,9 @@ jobs:
               with:
                   github_token: ${{ secrets.GH_TOKEN }}
                   repo: ${{ inputs.binaries_repo || 'ElementumOrg/lt2http' }}
-                  branch: ${{ inputs.binaries_branch || 'master' }}
-                  # The triggering run is still in progress, so a branch search would find the previous run
+                  # The triggering run is still in progress, so a branch search would find the previous run.
+                  # branch and run_id cannot be used together, an empty value counts as not set.
+                  branch: ${{ !inputs.binaries_run_id && (inputs.binaries_branch || 'master') || '' }}
                   run_id: ${{ inputs.binaries_run_id }}
                   workflow: build.yml
                   workflow_conclusion: success
