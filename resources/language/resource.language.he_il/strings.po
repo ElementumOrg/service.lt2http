@@ -926,3 +926,7 @@ msgstr ""
 #~ msgctxt "#30028"
 #~ msgid "Background handling of torrents"
 #~ msgstr "ניהול הורדת בטורנטים ברקע"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "אלץ הפעלה כספרייה"

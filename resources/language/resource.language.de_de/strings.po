@@ -917,3 +917,7 @@ msgstr ""
 #~ msgctxt "#30103"
 #~ msgid "Unable to find Elementum binary"
 #~ msgstr "Kann Elementum Binärdatei nicht finden"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Start als Bibliothek erzwingen"

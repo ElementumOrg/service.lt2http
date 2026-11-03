@@ -915,3 +915,7 @@ msgstr ""
 #~ msgctxt "#30075"
 #~ msgid "Default from libtorrent (acceptable)"
 #~ msgstr "libtorrentből alapértelmezetten (elfogadható)"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Indítás kényszerítése médiatárként"

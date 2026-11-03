@@ -921,3 +921,7 @@ msgstr ""
 #~ msgctxt "#30103"
 #~ msgid "Unable to find Elementum binary"
 #~ msgstr "Δεν βρέθηκε το binary του Elementum"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Επιβολή της έναρξης ως βιβλιοθήκη"

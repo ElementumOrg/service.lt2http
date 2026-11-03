@@ -929,3 +929,7 @@ msgstr ""
 #~ msgctxt "#30103"
 #~ msgid "Unable to find Elementum binary"
 #~ msgstr "Nemoguć pronalazak Elementumove binarne datoteke"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Prisili pokretanje kao zbirka"

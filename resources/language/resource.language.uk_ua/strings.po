@@ -922,3 +922,7 @@ msgstr ""
 #~ msgctxt "#30028"
 #~ msgid "Background handling of torrents"
 #~ msgstr "Фонова обробка торрентів"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Примусово запускати як бібліотеку"

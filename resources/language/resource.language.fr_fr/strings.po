@@ -935,3 +935,7 @@ msgstr ""
 #~ msgctxt "#30028"
 #~ msgid "Background handling of torrents"
 #~ msgstr "Prise en charge des torrents en arrière plan"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Forcer le démarrer comme une librairie"

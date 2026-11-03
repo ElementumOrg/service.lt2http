@@ -888,3 +888,7 @@ msgstr ""
 msgctxt "#30669"
 msgid "Authentication Password"
 msgstr ""
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr ""

@@ -889,3 +889,7 @@ msgstr "Логин для авторизации"
 msgctxt "#30669"
 msgid "Authentication Password"
 msgstr "Пароль для авторизации"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Принудительно запускать как библиотеку"

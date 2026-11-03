@@ -917,3 +917,7 @@ msgstr ""
 #~ msgctxt "#30620"
 #~ msgid "Restart Elementum addon"
 #~ msgstr "Starta om Elementum-tillägget"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Tvinga start som ett bibliotek"

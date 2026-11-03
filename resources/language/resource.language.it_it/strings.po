@@ -906,3 +906,7 @@ msgstr ""
 #~ msgctxt "#30504"
 #~ msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
 #~ msgstr "File situato in USERDATA/plugin.video.elementum/libtorrent.config[CR]Le impostazioni si applicano automaticamente. Visita https://libtorrent.org per informazioni."
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Forza l'avvio come libreria"

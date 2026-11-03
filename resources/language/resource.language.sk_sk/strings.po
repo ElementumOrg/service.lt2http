@@ -914,3 +914,7 @@ msgstr ""
 #~ msgctxt "#30103"
 #~ msgid "Unable to find Elementum binary"
 #~ msgstr "Elementum binary nenájdený"
+
+msgctxt "#30670"
+msgid "Force start as a library"
+msgstr "Vynútiť štart ako knižnica"
