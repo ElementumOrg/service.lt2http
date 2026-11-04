@@ -38,23 +38,25 @@ zip: $(ZIP_FILE)
 # 	done
 
 upload:
-	$(eval EXISTS := $(shell github-release info --user $(GIT_USER) --repo $(GIT_REPOSITORY) --tag v$(VERSION) 1>&2 2>/dev/null; echo $$?))
-ifneq ($(EXISTS),1)
+	# ifneq would be decided when the Makefile is read, before the check runs, so check in the shell
+	github-release info --user $(GIT_USER) --repo $(GIT_REPOSITORY) --tag v$(VERSION) >/dev/null 2>&1 || \
 	github-release release \
 		--user $(GIT_USER) \
 		--repo $(GIT_REPOSITORY) \
 		--tag v$(VERSION) \
 		--name "$(VERSION)" \
 		--description "$(VERSION)"
-endif
-
-	github-release upload \
-		--user $(GIT_USER) \
-		--repo $(GIT_REPOSITORY) \
-		--replace \
-		--tag v$(VERSION) \
-		--file $(NAME)-$(VERSION).zip \
-		--name $(NAME)-$(VERSION).zip
+	# A new release takes a few seconds to be found by its tag
+	for i in 1 2 3 4 5 6; do \
+		github-release upload \
+			--user $(GIT_USER) \
+			--repo $(GIT_REPOSITORY) \
+			--replace \
+			--tag v$(VERSION) \
+			--file $(NAME)-$(VERSION).zip \
+			--name $(NAME)-$(VERSION).zip && exit 0; \
+		sleep 5; \
+	done; exit 1
 
 clean:
 	rm -f $(ZIP_FILE)
