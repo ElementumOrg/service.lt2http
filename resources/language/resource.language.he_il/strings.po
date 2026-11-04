@@ -242,7 +242,7 @@ msgstr "כיבוי צלילי התראות"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http קרס, מופעל מחדש..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -250,7 +250,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "קובץ ההפעלה של lt2http לא נמצא[CR]הפלטפורמה הנדרשת:"
 
 msgctxt "#30106"
 msgid "File"
@@ -432,11 +432,11 @@ msgstr "כיבוי העלאה"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "הקצאה אוטומטית של כתובת IP ברשת"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "הקצאה אוטומטית של פורטים ברשת"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -448,31 +448,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "בחירה אוטומטית של גודל הזיכרון"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "הגודל נבחר אוטומטית, בהתאם[CR]לכמות הזיכרון הפיזי"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "אפשר שימוש בזיכרון"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "מינימום - 40MB, ברירת מחדל - 8%, מקסימום - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "מינימום"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "מקסימום"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -500,11 +500,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "קישוריות התוסף"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "פורט מקומי"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -520,7 +520,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "טעינת טורנטים מתיקיית הטורנטים בעת ההפעלה"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -552,7 +552,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "נתיב קובצי הטורנט"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -576,11 +576,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "מגבלת חיבורים בו-זמניים"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "מגבלה אוטומטית של חיבורים בו-זמניים"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -592,43 +592,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "proxy פנימי של HTTP"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "השתמש ב-proxy להורדת קובצי ‎.torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "השתמש ב-proxy עבור טראקרים"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "השתמש ב-proxy להורדת טורנטים"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "התאם אוטומטית את גודל הזיכרון[CR]עבור טורנטים כבדים, אם אפשר"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "התאם אוטומטית את גודל המאגר[CR]עבור טורנטים כבדים"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "התאמת החוצץ להגדרות advancedsettings של Kodi, אם הוגדרו"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "השתמש ב-libtorrent.config כדי לעקוף את הגדרות מנוע הטורנט"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "נמצא בקובץ USERDATA/service.lt2http/libtorrent.config[CR]ההגדרות חלות אוטומטית. מידע נוסף ב-https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "הפעל רישום ביומן של libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -648,23 +648,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "פרופיל ההגדרות של libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "זיכרון מינימלי"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "מהירות גבוהה"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "טען טורנטים מתיקיית הטורנטים במצב מושהה"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -672,11 +672,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "השתמש במועדי היעד של libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "השתמש בטריק ההשהיה/המשך של libtorrent עבור טורנטים שנוספו"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -720,11 +720,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "גודל החוצץ בסוף הקובץ (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "גודל החוצץ בתחילת הקובץ (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -752,47 +752,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "אגירה לפני ההפעלה"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "הגבלת מהירות"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "טעינת טורנטים אוטומטית בהפעלת התוסף"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "מגבלות חיבורים"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "שיתוף"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "שיתוף לתמיד (אלא אם נדרש מקום בדיסק)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "רשת"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "שונות"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "גודל המטמון (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "הפעל את המטמון אם אתה משתמש באחסון בקבצים ויש לך בעיות מהירות.[CR]הוא ישתמש ביותר זיכרון, אך עשוי לשפר את המהירות."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "הפעלת התוסף"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -800,11 +800,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "זמן קצוב לפענוח קישורי מגנט (שניות)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "סוג פלטפורמת היישום"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -816,7 +816,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "הפעלה מחדש של התוסף lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -832,67 +832,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "אילו קבצים להוריד"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "רק את קובץ ההפעלה"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "את קובצי העונה"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "את כל הקבצים"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "השבת LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "הוסף טראקרים נוספים"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "כל הטראקרים הידועים"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "הטראקרים הטובים ביותר"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "ערכה מינימלית"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "הסר את הטראקרים המקוריים מהטורנט"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "שנה את הטראקרים בטורנט"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "בעת ההוספה"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "בכל פעם"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "מוריד את הקובץ הבינארי הנדרש עבור '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "שם משתמש לאימות"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "סיסמה לאימות"
 
 # Interface
 #~ msgctxt "#30100"
@@ -930,3 +930,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "אלץ הפעלה כספרייה"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "לא להפעיל את lt2http (מצב לקוח)"

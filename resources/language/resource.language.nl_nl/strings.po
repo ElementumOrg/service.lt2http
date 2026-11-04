@@ -22,7 +22,7 @@ msgstr "Algemeen"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Downloadpad"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -74,7 +74,7 @@ msgstr "Ingeschakeld (gebruik op eigen risico)"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Snelheden pas na het initiële bufferen beperken"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -130,7 +130,7 @@ msgstr "Bibliotheek bijwerken"
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
-msgstr ""
+msgstr "UPnP & NAT-PMP uitschakelen"
 
 msgctxt "#30064"
 msgid "Encryption policy"
@@ -170,7 +170,7 @@ msgstr "Spoof user agent (niet aanbevolen)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Standaard aanbevolen (aanvaardbaar)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -239,7 +239,7 @@ msgstr ""
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http is gecrasht, opnieuw starten..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Programma lt2http niet gevonden[CR]Vereist platform:"
 
 msgctxt "#30106"
 msgid "File"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Geen JSON-RPC-verbinding met Kodi beschikbaar.[CR]Schakel beide opties voor applicatiebediening in bij Service-instellingen / Bediening en herstart Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -356,19 +356,19 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Opslagtype voor downloads"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Bestanden gebruiken"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Geheugen gebruiken"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Geheugen per torrent (MB)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -380,43 +380,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Opslag"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "TCP uitschakelen"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "UTP uitschakelen"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Configuratie wordt opnieuw geladen..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Kon geen binair bestand vinden voor architectuur '%s'![CR]Probeer deze add-on te verwijderen, opnieuw te downloaden en te installeren vanaf de grootste zip."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Maakt gewone bestanden aan op het bestandssysteem en schrijft daarnaar.[CR]De volledige grootte van het geselecteerde bestand moet beschikbaar zijn op de schijf!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Gebruikt het geheugen van het apparaat om delen van de torrent te downloaden.[CR]De schijf wordt alleen gebruikt om het .torrent-bestand te downloaden en op te slaan,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "dus dat kan elke opslag zijn. Voor apparaten met 1 GB geheugen[CR]is 100 MB genoeg, 200-250 MB voor grotere apparaten."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "Zoals de gewone bestandsopslag, maar splitst het bestand in veel kleine bestanden.[CR]Te gebruiken op FAT-32-bestandssystemen."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "Zoals de gewone bestandsopslag, maar gebruikt het geheugen[CR]om bestandssysteembewerkingen te beperken. Experimentele opslag!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -424,15 +424,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Uploaden uitschakelen"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Netwerk-IP automatisch toewijzen"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Netwerkpoorten automatisch toewijzen"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -444,31 +444,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Geheugengrootte automatisch kiezen"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "De grootte wordt automatisch gekozen op basis van[CR]de fysiek beschikbare hoeveelheid geheugen"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Geheugengebruik toestaan"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Minimum - 40 MB, Standaard - 8%, Maximum - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -496,11 +496,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Pluginverbinding"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Lokale poort"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -516,7 +516,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Torrents bij het opstarten laden uit de torrentmap"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -548,7 +548,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Pad voor torrentbestanden"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -572,11 +572,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Limiet gelijktijdige verbindingen"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Automatische limiet gelijktijdige verbindingen"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -588,43 +588,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Interne HTTP-proxy"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Proxy gebruiken voor het downloaden van .torrent-bestanden"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Proxy gebruiken voor trackers"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Proxy gebruiken voor het downloaden van torrents"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Geheugengrootte automatisch aanpassen[CR]voor zware torrents, indien mogelijk"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Buffergrootte automatisch aanpassen[CR]voor zware torrents"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Buffer aanpassen aan Kodi-advancedsettings, indien ingesteld"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "libtorrent.config gebruiken om de instellingen van de torrent-engine te overschrijven"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Staat in het bestand USERDATA/service.lt2http/libtorrent.config[CR]Instellingen worden automatisch toegepast. Meer informatie op https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "libtorrent-logboekregistratie inschakelen"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -644,23 +644,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Instellingenprofiel van libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Minimaal geheugen"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Hoge snelheid"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Torrents gepauzeerd laden uit de torrentmap"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -668,11 +668,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "libtorrent-deadlines gebruiken"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "libtorrent-pauzeer/hervat-truc gebruiken voor toegevoegde torrents"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -716,11 +716,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Buffergrootte aan het einde van het bestand (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Buffergrootte aan het begin van het bestand (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -748,47 +748,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Bufferen voor het afspelen"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Snelheidsbeperking"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Torrents automatisch laden bij het starten van de plugin"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Verbindingslimieten"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Seeden"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Altijd seeden (tenzij schijfruimte nodig is)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Netwerk"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diversen"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Cachegrootte (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Schakel caching in als je bestandsopslag gebruikt en snelheidsproblemen hebt.[CR]Het gebruikt meer geheugen, maar kan de snelheid verbeteren."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Opstarten van de add-on"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -796,11 +796,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Time-out voor het oplossen van magnetlinks (seconden)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Platformtype van de applicatie"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -812,7 +812,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "lt2http-add-on herstarten"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -828,67 +828,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Welke bestanden te downloaden"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Alleen het afspeelbestand"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Bestanden van het seizoen"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Alle bestanden"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "LSD uitschakelen"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Extra trackers toevoegen"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Alle bekende trackers"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Beste trackers"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Minimale set"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Oorspronkelijke trackers uit de torrent verwijderen"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Trackers in de torrent aanpassen"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Bij het toevoegen"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Elke keer"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Vereist binair bestand voor '%s' wordt gedownload"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Gebruikersnaam voor authenticatie"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Wachtwoord voor authenticatie"
 
 # Interface
 #~ msgctxt "#30100"
@@ -930,3 +930,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Starten als bibliotheek forceren"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "lt2http niet starten (clientmodus)"

@@ -22,7 +22,7 @@ msgstr "Všeobecné"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Cesta na sťahovanie"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -74,7 +74,7 @@ msgstr "Povoliť (iba na vlastné riziko)"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Obmedziť rýchlosti až po úvodnom načítaní do vyrovnávacej pamäte"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -110,19 +110,19 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "Disable DHT"
-msgstr ""
+msgstr "Zakázať DHT"
 
 msgctxt "#30051"
 msgid "Share ratio limit (percent)"
-msgstr ""
+msgstr "Limit pomeru zdieľania (percentá)"
 
 msgctxt "#30052"
 msgid "Seed time ratio limit (percent)"
-msgstr ""
+msgstr "Limit pomeru času zdieľania (percentá)"
 
 msgctxt "#30053"
 msgid "Seed time limit (hours)"
-msgstr ""
+msgstr "Limit času zdieľania (hodiny)"
 
 msgctxt "#30054"
 msgid "Update library"
@@ -130,103 +130,103 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
-msgstr ""
+msgstr "Vypnúť UPnP a NAT-PMP"
 
 msgctxt "#30064"
 msgid "Encryption policy"
-msgstr ""
+msgstr "Politika šifrovania"
 
 msgctxt "#30065"
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázané"
 
 msgctxt "#30066"
 msgid "Forced"
-msgstr ""
+msgstr "Vynútené"
 
 msgctxt "#30067"
 msgid "Proxy type"
-msgstr ""
+msgstr "Typ proxy"
 
 msgctxt "#30068"
 msgid "SOCKS4"
-msgstr ""
+msgstr "SOCKS4"
 
 msgctxt "#30069"
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 msgctxt "#30071"
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 msgctxt "#30073"
 msgid "i2p"
-msgstr ""
+msgstr "i2p"
 
 msgctxt "#30074"
 msgid "Spoof user agent (highly inadvisable)"
-msgstr ""
+msgstr "Falšovať user agent (dôrazne neodporúčané)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Predvolené odporúčané (prijateľné)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
-msgstr ""
+msgstr "libtorrent (Rasterbar) 1.1.0"
 
 msgctxt "#30077"
 msgid "BitTorrent 7.5.0"
-msgstr ""
+msgstr "BitTorrent 7.5.0"
 
 msgctxt "#30078"
 msgid "BitTorrent 7.4.3"
-msgstr ""
+msgstr "BitTorrent 7.4.3"
 
 msgctxt "#30079"
 msgid "µTorrent 3.4.9"
-msgstr ""
+msgstr "µTorrent 3.4.9"
 
 msgctxt "#30080"
 msgid "µTorrent 3.2.0"
-msgstr ""
+msgstr "µTorrent 3.2.0"
 
 msgctxt "#30081"
 msgid "µTorrent 2.2.1"
-msgstr ""
+msgstr "µTorrent 2.2.1"
 
 msgctxt "#30082"
 msgid "Transmission 2.92"
-msgstr ""
+msgstr "Transmission 2.92"
 
 msgctxt "#30083"
 msgid "Deluge 1.3.6.0"
-msgstr ""
+msgstr "Deluge 1.3.6.0"
 
 msgctxt "#30084"
 msgid "Deluge 1.3.12.0"
-msgstr ""
+msgstr "Deluge 1.3.12.0"
 
 msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
-msgstr ""
+msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
-msgstr ""
+msgstr "Povoliť optimalizované nastavenia úložiska"
 
 msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
-msgstr ""
+msgstr "Časový limit úvodného načítavania (sekundy)"
 
 msgctxt "#30090"
 msgid "Listen interfaces"
-msgstr ""
+msgstr "Načúvacie rozhrania"
 
 msgctxt "#30091"
 msgid "Outgoing interfaces"
-msgstr ""
+msgstr "Odchádzajúce rozhrania"
 
 msgctxt "#30092"
 msgid "Use default fanart"
@@ -239,7 +239,7 @@ msgstr ""
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http spadol, reštartuje sa..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Nenašiel sa spustiteľný súbor lt2http[CR]Požadovaná platforma:"
 
 msgctxt "#30106"
 msgid "File"
@@ -259,7 +259,7 @@ msgstr "Vložiť url adresu"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr ""
+msgstr "Príliš veľa pádov, prerušuje sa..."
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Nie je dostupné žiadne pripojenie JSON-RPC ku Kodi.[CR]Povoľ obe možnosti ovládania aplikácie v Nastaveniach služieb / Ovládanie a reštartuj Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -356,19 +356,19 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Typ úložiska pre sťahovanie"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Použiť súbory"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Použiť pamäť"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Veľkosť pamäte pre každý torrent (MB)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -380,43 +380,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Úložisko"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Zakázať TCP"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Zakázať UTP"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Znovu sa načítava konfigurácia..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Nepodarilo sa nájsť binárny súbor pre architektúru '%s'![CR]Skús odinštalovať tento doplnok, znovu ho stiahnuť a nainštalovať z najväčšieho zipu."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Vytvára bežné súbory v súborovom systéme a zapisuje do nich.[CR]Na disku musí byť dostupná plná veľkosť vybraného súboru!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Používa pamäť zariadenia na sťahovanie častí torrentu.[CR]Disk sa používa len na stiahnutie a uloženie súboru .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "takže to môže byť akékoľvek úložisko. Pre zariadenia s 1 GB pamäte[CR]stačí 100 MB, pre väčšie zariadenia 200-250 MB."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "To isté ako bežné súborové úložisko, ale rozdelí súbor na množstvo malých súborov.[CR]Používaj na súborových systémoch FAT-32."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "To isté ako bežné súborové úložisko, ale používa pamäť[CR]na zníženie operácií súborového systému. Experimentálne úložisko!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -424,15 +424,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Zakázať odosielanie"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Automaticky prideliť sieťovú IP"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Automaticky prideliť sieťové porty"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -444,31 +444,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Zvoliť veľkosť pamäte automaticky"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "Veľkosť sa volí automaticky na základe[CR]množstva fyzickej pamäte"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Povoliť využitie pamäte"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Minimum - 40 MB, Predvolené - 8 %, Maximum - 15 %"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Predvolené"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -496,11 +496,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Pripojenie doplnku"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Lokálny port"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -516,7 +516,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Načítať torrenty z priečinka torrents pri štarte"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -548,7 +548,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Cesta k súborom torrent"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -572,11 +572,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Limit súčasných pripojení"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Automatický limit súčasných pripojení"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -588,43 +588,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Interný HTTP proxy"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Používať proxy na sťahovanie súborov .torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Používať proxy pre trackery"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Používať proxy na sťahovanie torrentov"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Automaticky prispôsobiť veľkosť pamäte[CR]pre veľké torrenty, ak je to možné"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Automaticky prispôsobiť veľkosť vyrovnávacej pamäte[CR]pre veľké torrenty"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Prispôsobiť vyrovnávaciu pamäť advancedsettings Kodi, ak sú nastavené"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Použiť libtorrent.config na prepísanie nastavení torrentového jadra"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Nachádza sa v súbore USERDATA/service.lt2http/libtorrent.config[CR]Nastavenia sa použijú automaticky. Viac na https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Povoliť zaznamenávanie libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -644,23 +644,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Profil nastavení libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Predvolené"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Minimálna pamäť"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Vysoká rýchlosť"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Načítať torrenty z priečinka torrents pozastavené"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -668,11 +668,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Používať termíny libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Používať trik pozastavenia/pokračovania libtorrent pre pridané torrenty"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -716,11 +716,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Veľkosť vyrovnávacej pamäte na konci súboru (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Veľkosť vyrovnávacej pamäte na začiatku súboru (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -748,47 +748,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Načítanie do vyrovnávacej pamäte pred prehrávaním"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Obmedzenie rýchlosti"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Načítať torrenty pri spustení doplnku"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Limity pripojení"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Zdieľanie"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Zdieľať navždy (ak netreba miesto na disku)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Sieť"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Rôzne"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Veľkosť vyrovnávacej pamäte cache (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Povoľ vyrovnávaciu pamäť, ak používaš súborové úložisko a máš problémy s rýchlosťou.[CR]Použije viac pamäte, ale môže zlepšiť rýchlosť."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Štart doplnku"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -796,11 +796,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Časový limit na zistenie údajov magnet odkazu (sekundy)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Typ platformy aplikácie"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -812,7 +812,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Reštartovať doplnok lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -828,67 +828,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Ktoré súbory sťahovať"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Len prehrávaný súbor"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Súbory sezóny"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Všetky súbory"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Zakázať LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Pridať ďalšie trackery"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Všetky známe trackery"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Najlepšie trackery"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Minimálna sada"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Odstrániť pôvodné trackery z torrentu"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Upraviť trackery v torrente"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "V čase pridania"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Zakaždým"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Sťahuje sa potrebný binárny súbor pre '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Prihlasovacie meno"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Prihlasovacie heslo"
 
 # Interface
 #~ msgctxt "#30100"
@@ -918,3 +918,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Vynútiť štart ako knižnica"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Nespúšťať lt2http (režim klienta)"

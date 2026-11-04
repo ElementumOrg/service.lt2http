@@ -242,7 +242,7 @@ msgstr "Inaktivera aviseringsljud"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http kraschade, startar om..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -250,7 +250,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Hittar inte programmet lt2http[CR]Plattform som krävs:"
 
 msgctxt "#30106"
 msgid "File"
@@ -623,7 +623,7 @@ msgstr "Använd libtorrent.config för att åsidosätta inställningar för torr
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Finns i filen USERDATA/service.lt2http/libtorrent.config[CR]Inställningarna gäller automatiskt. Mer information på https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -815,7 +815,7 @@ msgstr "Återgå till [B]%s[/B]"
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Starta om tillägget lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -847,51 +847,51 @@ msgstr "Alla filer"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Inaktivera LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Lägg till extra spårare"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Alla kända spårare"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Bästa spårare"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Lägsta inställningen"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Ta bort originalspårare från torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Ändra spårare för torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Vid tidpunkten för tilläggning"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Varje gång"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Hämtning av nödvändig binärfil för '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Användarnamn för autentisering"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Lösenord för autentisering"
 
 # Interface
 #~ msgctxt "#30100"
@@ -921,3 +921,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Tvinga start som ett bibliotek"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Starta inte lt2http (klientläge)"

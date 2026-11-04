@@ -152,19 +152,19 @@ msgstr "Τύπος proxy"
 
 msgctxt "#30068"
 msgid "SOCKS4"
-msgstr ""
+msgstr "SOCKS4"
 
 msgctxt "#30069"
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 msgctxt "#30071"
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 msgctxt "#30073"
 msgid "i2p"
-msgstr ""
+msgstr "i2p"
 
 msgctxt "#30074"
 msgid "Spoof user agent (highly inadvisable)"
@@ -176,43 +176,43 @@ msgstr "Προεπιλογή (προτεινεται)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
-msgstr ""
+msgstr "libtorrent (Rasterbar) 1.1.0"
 
 msgctxt "#30077"
 msgid "BitTorrent 7.5.0"
-msgstr ""
+msgstr "BitTorrent 7.5.0"
 
 msgctxt "#30078"
 msgid "BitTorrent 7.4.3"
-msgstr ""
+msgstr "BitTorrent 7.4.3"
 
 msgctxt "#30079"
 msgid "µTorrent 3.4.9"
-msgstr ""
+msgstr "µTorrent 3.4.9"
 
 msgctxt "#30080"
 msgid "µTorrent 3.2.0"
-msgstr ""
+msgstr "µTorrent 3.2.0"
 
 msgctxt "#30081"
 msgid "µTorrent 2.2.1"
-msgstr ""
+msgstr "µTorrent 2.2.1"
 
 msgctxt "#30082"
 msgid "Transmission 2.92"
-msgstr ""
+msgstr "Transmission 2.92"
 
 msgctxt "#30083"
 msgid "Deluge 1.3.6.0"
-msgstr ""
+msgstr "Deluge 1.3.6.0"
 
 msgctxt "#30084"
 msgid "Deluge 1.3.12.0"
-msgstr ""
+msgstr "Deluge 1.3.12.0"
 
 msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
-msgstr ""
+msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
@@ -224,11 +224,11 @@ msgstr "Αρχικός χρόνος στην ενδιάμεση μνήμη (δε
 
 msgctxt "#30090"
 msgid "Listen interfaces"
-msgstr ""
+msgstr "Διεπαφές ακρόασης"
 
 msgctxt "#30091"
 msgid "Outgoing interfaces"
-msgstr ""
+msgstr "Εξερχόμενες διεπαφές"
 
 msgctxt "#30092"
 msgid "Use default fanart"
@@ -241,7 +241,7 @@ msgstr "Απενεργοποίηση ήχου ειδοποίησης"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "Το lt2http κατέρρευσε, γίνεται επανεκκίνηση..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -249,7 +249,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Δεν βρέθηκε το εκτελέσιμο του lt2http[CR]Απαιτούμενη πλατφόρμα:"
 
 msgctxt "#30106"
 msgid "File"
@@ -607,27 +607,27 @@ msgstr "Χρήση του proxy για λήψεις μεσω torrent"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Αυτόματη προσαρμογή του μεγέθους μνήμης[CR]για βαριά torrent, αν είναι δυνατόν"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Αυτόματη προσαρμογή του μεγέθους της ενδιάμεσης μνήμης[CR]για βαριά torrent"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Προσαρμογή της προσωρινής μνήμης στα advancedsettings του Kodi, αν έχουν οριστεί"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Χρήση του libtorrent.config για την παράκαμψη των ρυθμίσεων της μηχανής torrent"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Βρίσκεται στο αρχείο USERDATA/service.lt2http/libtorrent.config[CR]Οι ρυθμίσεις εφαρμόζονται αυτόματα. Πληροφορίες στο https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Ενεργοποίηση της καταγραφής του libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -647,23 +647,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Προφίλ ρυθμίσεων libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Προεπιλεγμένη"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Ελάχιστη μνήμη"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Υψηλή ταχύτητα"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Φόρτωση των torrent από τον φάκελο torrent σε παύση"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -671,11 +671,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Χρήση των προθεσμιών του libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Χρήση του τεχνάσματος παύσης/συνέχισης του libtorrent για τα torrent που προστίθενται"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -719,11 +719,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Μέγεθος προσωρινής μνήμης στο τέλος του αρχείου (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Μέγεθος προσωρινής μνήμης στην αρχή του αρχείου (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -751,47 +751,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Προφόρτωση πριν από την αναπαραγωγή"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Περιορισμός ταχύτητας"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Αυτόματη φόρτωση torrents κατά την εκκίνηση του πρόσθετου"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Όρια συνδέσεων"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Διαμοιρασμός"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Διαμοιρασμός για πάντα (εκτός αν χρειαστεί χώρος στον δίσκο)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Δίκτυο"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Διάφορα"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Μέγεθος cache (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Ενεργοποιήστε την προσωρινή μνήμη αν χρησιμοποιείτε αποθήκευση σε αρχεία και έχετε προβλήματα ταχύτητας.[CR]Θα χρησιμοποιήσει περισσότερη μνήμη, αλλά μπορεί να βελτιώσει την ταχύτητα."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Έναρξη του πρόσθετου"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -799,11 +799,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Χρονικό όριο επίλυσης magnet (δευτερόλεπτα)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Τύπος πλατφόρμας της εφαρμογής"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -815,7 +815,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Επανεκκίνηση του πρόσθετου lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -831,67 +831,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Ποια αρχεία θα ληφθούν"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Μόνο το αρχείο αναπαραγωγής"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Τα αρχεία του κύκλου"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Όλα τα αρχεία"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Απενεργοποίηση LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Προσθήκη επιπλέον tracker"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Όλα τα γνωστά tracker"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Τα καλύτερα tracker"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Ελάχιστο σύνολο"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Αφαίρεση των αρχικών tracker από το torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Τροποποίηση των tracker στο torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Τη στιγμή της προσθήκης"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Κάθε φορά"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Λήψη του απαιτούμενου εκτελέσιμου αρχείου για '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Όνομα χρήστη πιστοποίησης"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Κωδικός πιστοποίησης"
 
 # Interface
 #~ msgctxt "#30100"
@@ -925,3 +925,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Επιβολή της έναρξης ως βιβλιοθήκη"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Να μην ξεκινά το lt2http (λειτουργία πελάτη)"

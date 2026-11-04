@@ -174,43 +174,43 @@ msgstr "По-умолчанию рекомендуемое"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
-msgstr ""
+msgstr "libtorrent (Rasterbar) 1.1.0"
 
 msgctxt "#30077"
 msgid "BitTorrent 7.5.0"
-msgstr ""
+msgstr "BitTorrent 7.5.0"
 
 msgctxt "#30078"
 msgid "BitTorrent 7.4.3"
-msgstr ""
+msgstr "BitTorrent 7.4.3"
 
 msgctxt "#30079"
 msgid "µTorrent 3.4.9"
-msgstr ""
+msgstr "µTorrent 3.4.9"
 
 msgctxt "#30080"
 msgid "µTorrent 3.2.0"
-msgstr ""
+msgstr "µTorrent 3.2.0"
 
 msgctxt "#30081"
 msgid "µTorrent 2.2.1"
-msgstr ""
+msgstr "µTorrent 2.2.1"
 
 msgctxt "#30082"
 msgid "Transmission 2.92"
-msgstr ""
+msgstr "Transmission 2.92"
 
 msgctxt "#30083"
 msgid "Deluge 1.3.6.0"
-msgstr ""
+msgstr "Deluge 1.3.6.0"
 
 msgctxt "#30084"
 msgid "Deluge 1.3.12.0"
-msgstr ""
+msgstr "Deluge 1.3.12.0"
 
 msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
-msgstr ""
+msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
@@ -880,7 +880,7 @@ msgstr "Каждый раз"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Скачиваем требуемый бинарный файл для '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
@@ -893,3 +893,7 @@ msgstr "Пароль для авторизации"
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Принудительно запускать как библиотеку"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Не запускать lt2http (режим клиента)"

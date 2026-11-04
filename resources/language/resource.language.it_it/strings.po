@@ -239,7 +239,7 @@ msgstr "Disabilita notifica sonora"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http si è bloccato, riavvio in corso..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Impossibile trovare l'eseguibile di lt2http[CR]Piattaforma richiesta:"
 
 msgctxt "#30106"
 msgid "File"
@@ -620,7 +620,7 @@ msgstr "Usa libtorrent.config per sovrascrivere le impostazioni del motore torre
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Si trova nel file USERDATA/service.lt2http/libtorrent.config[CR]Le impostazioni si applicano automaticamente. Informazioni su https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -716,11 +716,11 @@ msgstr "Discendente"
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Dimensione del buffer a fine file (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Dimensione del buffer a inizio file (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -748,47 +748,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Buffering prima della riproduzione"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Limitazione della velocità"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Carica i torrent all'avvio del plugin"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Limiti di connessione"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Condivisione"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Condividi per sempre (salvo serva spazio su disco)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Rete"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Varie"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Dimensione della cache (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Abilita la cache se usi l'archiviazione su File e hai problemi di velocità.[CR]Userà più memoria, ma può migliorare la velocità."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Avvio dell'add-on"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -796,11 +796,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Timeout di risoluzione dei magnet (secondi)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Tipo di piattaforma dell'applicazione"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -812,7 +812,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Riavvia l'add-on lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -828,67 +828,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Quali file scaricare"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Solo il file da riprodurre"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "I file della stagione"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Tutti i file"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Disabilita LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Aggiungi tracker extra"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Tutti i tracker conosciuti"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "I tracker migliori"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Insieme minimo"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Rimuovi i tracker originali dal torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Modifica i tracker nel torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Al momento dell'aggiunta"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Ogni volta"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Download del file binario necessario per '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Nome utente di autenticazione"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Password di autenticazione"
 
 # Interface
 #~ msgctxt "#30100"
@@ -910,3 +910,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Forza l'avvio come libreria"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Non avviare lt2http (modalità client)"

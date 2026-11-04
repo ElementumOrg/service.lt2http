@@ -21,7 +21,7 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Caminho das transferências"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -73,7 +73,7 @@ msgstr "Ativo (use à sua responsabilidade)"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Limitar as taxas apenas após a memória intermédia inicial"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -169,7 +169,7 @@ msgstr "Identidade Falsa (altamente desaconselhável)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Predefinição aconselhável (aceitável)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -221,11 +221,11 @@ msgstr "Timeout de buffering inicial (segundos)"
 
 msgctxt "#30090"
 msgid "Listen interfaces"
-msgstr ""
+msgstr "Interfaces de escuta"
 
 msgctxt "#30091"
 msgid "Outgoing interfaces"
-msgstr ""
+msgstr "Interfaces de saída"
 
 msgctxt "#30092"
 msgid "Use default fanart"
@@ -238,7 +238,7 @@ msgstr ""
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "O lt2http falhou, a reiniciar..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -246,7 +246,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Não foi possível encontrar o executável do lt2http[CR]Plataforma necessária:"
 
 msgctxt "#30106"
 msgid "File"
@@ -274,7 +274,7 @@ msgstr ""
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Não há ligação JSON-RPC disponível para o Kodi.[CR]Ativa ambas as opções de controlo da aplicação em Definições de serviços / Controlo e reinicia o Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -355,19 +355,19 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Tipo de armazenamento das transferências"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Usar ficheiros"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Usar memória"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Memória para cada torrent (MB)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -379,43 +379,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Armazenamento"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Desativar TCP"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Desativar UTP"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "A recarregar a configuração..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Não foi possível encontrar o binário para a arquitetura '%s'![CR]Tenta desinstalar este add-on, transferi-lo de novo e reinstalá-lo a partir do zip maior."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Cria ficheiros normais no sistema de ficheiros e escreve neles.[CR]Precisa que o tamanho total do ficheiro selecionado esteja disponível no disco!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Usa a memória do dispositivo para transferir partes do torrent.[CR]O disco é usado apenas para transferir e guardar o ficheiro .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "por isso pode ser qualquer armazenamento. Para dispositivos com 1 GB[CR]bastam 100 MB, e 200-250 MB para dispositivos maiores."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "Igual ao armazenamento normal em ficheiros, mas divide o ficheiro em muitos ficheiros pequenos.[CR]Deve ser usado em sistemas de ficheiros FAT-32."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "Igual ao armazenamento normal em ficheiros, mas usa a memória[CR]para reduzir as operações no sistema de ficheiros. Armazenamento experimental!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -423,15 +423,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Desativar o envio"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Atribuir automaticamente o IP de rede"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Atribuir automaticamente as portas de rede"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -443,31 +443,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Escolher o tamanho da memória automaticamente"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "O tamanho é escolhido automaticamente, com base na[CR]quantidade de memória física"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Permitir o uso de memória"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Mínimo - 40 MB, Predefinido - 8%, Máximo - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Mínimo"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Predefinido"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Máximo"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -495,11 +495,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Conectividade do plugin"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Porta local"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -515,7 +515,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Carregar os torrents da pasta de torrents no arranque"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -547,7 +547,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Caminho dos ficheiros torrent"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -571,11 +571,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Limite de ligações simultâneas"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Limite automático de ligações simultâneas"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -587,43 +587,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Proxy HTTP interno"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Usar o proxy para transferir ficheiros .torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Usar o proxy para os trackers"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Usar o proxy para transferir torrents"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Ajustar automaticamente o tamanho da memória[CR]para torrents pesados, se possível"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Ajustar automaticamente o tamanho da memória intermédia[CR]para torrents pesados"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Ajustar o buffer às advancedsettings do Kodi, se definidas"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Usar o libtorrent.config para substituir as definições do motor de torrents"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Encontra-se no ficheiro USERDATA/service.lt2http/libtorrent.config[CR]As definições aplicam-se automaticamente. Mais informações em https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Ativar o registo do libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -643,23 +643,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Perfil de definições do libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Predefinido"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Memória mínima"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Alta velocidade"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Carregar os torrents da pasta de torrents em pausa"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -667,11 +667,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Usar os prazos do libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Usar o truque de pausa/retoma do libtorrent para os torrents adicionados"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -715,11 +715,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Tamanho do buffer no fim do ficheiro (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Tamanho do buffer no início do ficheiro (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -747,47 +747,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Memória intermédia antes da reprodução"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Limitação de velocidade"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Carregar torrents ao iniciar o plugin"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Limites de ligações"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Semeadura"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Partilhar para sempre (a menos que falte espaço em disco)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Rede"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diversos"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Tamanho da cache (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Ativa a cache se usares armazenamento em ficheiros e tiveres problemas de velocidade.[CR]Usará mais memória, mas pode melhorar a velocidade."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Arranque do add-on"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -795,11 +795,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Tempo limite para resolver ligações magnet (segundos)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Tipo de plataforma da aplicação"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -811,7 +811,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Reiniciar o add-on lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -827,67 +827,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Que ficheiros transferir"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Apenas o ficheiro a reproduzir"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Os ficheiros da temporada"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Todos os ficheiros"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Desativar LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Adicionar trackers extra"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Todos os trackers conhecidos"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Os melhores trackers"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Conjunto mínimo"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Remover os trackers originais do torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Modificar os trackers no torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "No momento de adicionar"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Sempre"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "A transferir o ficheiro binário necessário para '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Utilizador de autenticação"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Palavra-passe de autenticação"
 
 # Interface
 #~ msgctxt "#30100"
@@ -921,3 +921,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Forçar o arranque como biblioteca"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Não iniciar o lt2http (modo cliente)"

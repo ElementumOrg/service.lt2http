@@ -25,7 +25,7 @@ msgstr "General"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Calea de descărcare"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -77,7 +77,7 @@ msgstr "Activat (utilizați pe risc propriu)"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Limitează ratele doar după memorarea inițială în tampon"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -173,7 +173,7 @@ msgstr "Păcălește user agent-ul (nu este recomandat)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Implicit recomandat (acceptabil)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -225,11 +225,11 @@ msgstr "Timp răspuns în secunde"
 
 msgctxt "#30090"
 msgid "Listen interfaces"
-msgstr ""
+msgstr "Interfețe de ascultare"
 
 msgctxt "#30091"
 msgid "Outgoing interfaces"
-msgstr ""
+msgstr "Interfețe de ieșire"
 
 msgctxt "#30092"
 msgid "Use default fanart"
@@ -242,7 +242,7 @@ msgstr ""
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http s-a blocat, se repornește..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -250,7 +250,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Nu s-a găsit executabilul lt2http[CR]Platforma necesară:"
 
 msgctxt "#30106"
 msgid "File"
@@ -278,7 +278,7 @@ msgstr ""
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Nu există o conexiune JSON-RPC disponibilă către Kodi.[CR]Activează ambele opțiuni de control al aplicației din Setări servicii / Control și repornește Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -359,19 +359,19 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Tipul de stocare pentru descărcări"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Folosește fișiere"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Folosește memoria"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Memorie pentru fiecare torent (MB)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -383,43 +383,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Stocare"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Dezactivează TCP"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Dezactivează UTP"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Se reîncarcă configurația..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Nu s-a găsit fișierul binar pentru arhitectura '%s'![CR]Încearcă să dezinstalezi acest supliment, să îl descarci din nou și să îl reinstalezi din arhiva zip cea mai mare."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Creează fișiere obișnuite în sistemul de fișiere și scrie în ele.[CR]Necesită ca dimensiunea completă a fișierului selectat să fie disponibilă pe disc!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Folosește memoria dispozitivului pentru a descărca părți din torrent.[CR]Discul este folosit doar pentru a descărca și salva fișierul .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "deci poate fi orice stocare. Pentru dispozitive cu 1 GB de memorie[CR]100 MB sunt suficienți, 200-250 MB pentru dispozitive mai mari."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "La fel ca stocarea obișnuită în fișiere, dar împarte fișierul în multe fișiere mici.[CR]Ar trebui folosită pe sisteme de fișiere FAT-32."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "La fel ca stocarea obișnuită în fișiere, dar folosește memoria[CR]pentru a reduce operațiile pe sistemul de fișiere. Stocare experimentală!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -427,15 +427,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Dezactivează încărcarea"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Atribuie automat IP-ul de rețea"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Atribuie automat porturile de rețea"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -447,31 +447,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Alege automat dimensiunea memoriei"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "Dimensiunea este aleasă automat, în funcție de[CR]cantitatea de memorie fizică"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Permite utilizarea memoriei"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Minim - 40 MB, Implicit - 8%, Maxim - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Minim"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Implicit"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Maxim"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -499,11 +499,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Conectivitatea pluginului"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Port local"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -519,7 +519,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Încarcă torrentele din dosarul de torrente la pornire"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -551,7 +551,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Calea fișierelor torrent"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -575,11 +575,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Limita conexiunilor simultane"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Limita automată a conexiunilor simultane"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -591,43 +591,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Proxy HTTP intern"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Folosește proxy pentru descărcarea fișierelor .torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Folosește proxy pentru trackere"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Folosește proxy pentru descărcarea torrentelor"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Ajustează automat dimensiunea memoriei[CR]pentru torrente mari, dacă este posibil"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Ajustează automat dimensiunea tamponului[CR]pentru torrente mari"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Ajustează bufferul după advancedsettings din Kodi, dacă sunt setate"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Folosește libtorrent.config pentru a suprascrie setările motorului torrent"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Se află în fișierul USERDATA/service.lt2http/libtorrent.config[CR]Setările se aplică automat. Informații pe https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Activează jurnalizarea libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -647,23 +647,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Profilul de setări libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Implicit"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Memorie minimă"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Viteză mare"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Încarcă torrentele din dosarul de torrente în pauză"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -671,11 +671,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Folosește termenele limită libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Folosește trucul de pauză/reluare libtorrent pentru torrentele adăugate"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -719,11 +719,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Dimensiunea bufferului la sfârșitul fișierului (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Dimensiunea bufferului la începutul fișierului (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -751,47 +751,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Memorare în tampon înainte de redare"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Limitarea vitezei"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Încarcă torentele la pornirea pluginului"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Limite de conexiuni"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Partajare"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Partajează mereu (dacă nu e nevoie de spațiu pe disc)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Rețea"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diverse"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Dimensiunea cache-ului (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Activează memorarea în cache dacă folosești stocarea în fișiere și ai probleme de viteză.[CR]Va folosi mai multă memorie, dar poate îmbunătăți viteza."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Pornirea suplimentului"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -799,11 +799,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Limita de timp pentru rezolvarea linkurilor magnet (secunde)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Tipul de platformă al aplicației"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -815,7 +815,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Repornește add-on-ul lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -831,67 +831,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Ce fișiere se descarcă"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Doar fișierul de redat"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Fișierele sezonului"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Toate fișierele"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Dezactivează LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Adaugă trackere suplimentare"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Toate trackerele cunoscute"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Cele mai bune trackere"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Set minim"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Elimină trackerele originale din torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Modifică trackerele din torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "În momentul adăugării"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "De fiecare dată"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Se descarcă fișierul binar necesar pentru '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Utilizator pentru autentificare"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Parolă pentru autentificare"
 
 # Interface
 #~ msgctxt "#30100"
@@ -925,3 +925,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Forțează pornirea ca bibliotecă"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Nu porni lt2http (mod client)"

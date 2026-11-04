@@ -238,7 +238,7 @@ msgstr "Desactivar sonido de notificación"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http se cerró inesperadamente, reiniciando..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -246,7 +246,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "No se encuentra el ejecutable de lt2http[CR]Plataforma necesaria:"
 
 msgctxt "#30106"
 msgid "File"
@@ -620,7 +620,7 @@ msgstr "Usar libtorrent.config para configurar motor de torrent"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Se encuentra en el archivo USERDATA/service.lt2http/libtorrent.config[CR]Los ajustes se aplican automáticamente. Más información en https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -812,7 +812,7 @@ msgstr "Regresar a [B]%s[/B]"
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Reiniciar el complemento lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -828,67 +828,67 @@ msgstr "Mostrar Especiales en listas de Temporadas"
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Archivos que se van a descargar"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Sólo reproducir archivo"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Archivos de temporada"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Todos los archivos"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Desactivar LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Agregar trackers extra"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Todos los trackers conocidos"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Mejores trackers"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Set mínimo"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Eliminar trackers originales de torrent"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Modificar trackers en torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Cuando se agrega"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Siempre"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Descargando archivo binario requerido para '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Usuario para autenticación"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Contraseña de autenticación"
 
 # Interface
 #~ msgctxt "#30100"
@@ -918,3 +918,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Forzar iniciar como biblioteca"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "No iniciar lt2http (modo cliente)"

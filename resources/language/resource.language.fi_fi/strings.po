@@ -21,7 +21,7 @@ msgstr "Yleiset"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Latauspolku"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -73,7 +73,7 @@ msgstr "Käytössä (käytä omalla vastuulla)"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Rajoita nopeuksia vasta alkupuskuroinnin jälkeen"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -169,7 +169,7 @@ msgstr "Väärennä käyttäjätunnus (ei suositella)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Oletus suositeltava (hyväksyttävä)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -238,7 +238,7 @@ msgstr "Älä käytä äänimerkkiä ilmoituksissa"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http kaatui, käynnistetään uudelleen..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -246,7 +246,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "lt2http-ohjelmaa ei löydy[CR]Vaadittu alusta:"
 
 msgctxt "#30106"
 msgid "File"
@@ -355,19 +355,19 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Latausten tallennustyyppi"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Käytä tiedostoja"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Käytä muistia"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Muistin määrä torrentia kohden (Mt)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -379,43 +379,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Tallennustila"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Poista TCP käytöstä"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Poista UTP käytöstä"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Ladataan asetuksia uudelleen..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Binääriä arkkitehtuurille '%s' ei löytynyt![CR]Yritä poistaa tämä lisäosa, ladata se uudelleen ja asentaa suurimmasta zip-paketista."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Luo tavallisia tiedostoja tiedostojärjestelmään ja kirjoittaa niihin.[CR]Valitun tiedoston koko täytyy olla kokonaan käytettävissä levyllä!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Käyttää laitteen muistia torrentin osien lataamiseen.[CR]Levyä käytetään vain .torrent-tiedoston lataamiseen ja tallentamiseen,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "joten se voi olla mikä tahansa tallennustila. 1 Gt:n muistin laitteille[CR]100 Mt riittää, suuremmille laitteille 200-250 Mt."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "Kuten tavallinen tiedostotallennus, mutta jakaa tiedoston moneen pieneen tiedostoon.[CR]Käytettävä FAT-32-tiedostojärjestelmissä."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "Kuten tavallinen tiedostotallennus, mutta käyttää muistia[CR]vähentääkseen tiedostojärjestelmän toimintoja. Kokeellinen tallennustila!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -423,15 +423,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Poista lähetys käytöstä"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Määritä verkon IP automaattisesti"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Määritä verkkoportit automaattisesti"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -443,31 +443,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Valitse muistin koko automaattisesti"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "Koko valitaan automaattisesti käytettävissä olevan[CR]fyysisen muistin määrän perusteella"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Salli muistin käyttö"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Vähintään - 40 Mt, Oletus - 8 %, Enintään - 15 %"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Vähintään"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Enintään"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -495,11 +495,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Lisäosan yhteydet"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Paikallinen portti"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -515,7 +515,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Lataa torrentit torrent-kansiosta käynnistyksessä"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -547,7 +547,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Torrent-tiedostojen polku"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -571,11 +571,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Samanaikaisten yhteyksien raja"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Samanaikaisten yhteyksien automaattinen raja"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -587,43 +587,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Sisäinen HTTP-välityspalvelin"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Käytä välityspalvelinta .torrent-tiedostojen lataamiseen"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Käytä välityspalvelinta seurantapalvelimille"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Käytä välityspalvelinta torrenttien lataamiseen"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Säädä muistin kokoa automaattisesti[CR]raskaille torrenteille, jos mahdollista"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Säädä puskurin kokoa automaattisesti[CR]raskaille torrenteille"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Sovita puskuri Kodin advancedsettings-asetuksiin, jos ne on asetettu"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Käytä libtorrent.config-tiedostoa torrent-moottorin asetusten ohittamiseen"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Sijaitsee tiedostossa USERDATA/service.lt2http/libtorrent.config[CR]Asetukset otetaan käyttöön automaattisesti. Lisätietoja: https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Ota libtorrent-lokitus käyttöön"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -643,23 +643,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "libtorrent-asetusprofiili"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Vähäinen muisti"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Suuri nopeus"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Lataa torrentit torrent-kansiosta keskeytettyinä"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -667,11 +667,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Käytä libtorrentin määräaikoja"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Käytä libtorrentin tauko/jatka-kikkaa lisätyille torrenteille"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -715,11 +715,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Tiedoston lopun puskurin koko (Mt)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Tiedoston alun puskurin koko (Mt)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -747,47 +747,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Puskurointi ennen toistoa"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Nopeusrajoitus"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Lataa torrentit automaattisesti lisäosan käynnistyessä"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Yhteyksien rajat"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Jakaminen"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Jaa aina (ellei levytilaa tarvita)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Verkko"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Sekalaiset"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Välimuistin koko (Mt)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Ota välimuisti käyttöön, jos käytät tiedostotallennusta ja sinulla on nopeusongelmia.[CR]Se käyttää enemmän muistia, mutta voi parantaa nopeutta."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Lisäosan käynnistys"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -795,11 +795,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Magnet-linkin selvityksen aikaraja (sekuntia)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Sovelluksen alustatyyppi"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -811,7 +811,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Käynnistä lt2http-lisäosa uudelleen"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -827,67 +827,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Mitkä tiedostot ladataan"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Vain toistettava tiedosto"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Kauden tiedostot"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Kaikki tiedostot"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Poista LSD käytöstä"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Lisää ylimääräisiä seurantapalvelimia"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Kaikki tunnetut seurantapalvelimet"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Parhaat seurantapalvelimet"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Vähimmäisjoukko"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Poista alkuperäiset seurantapalvelimet torrentista"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Muokkaa torrentin seurantapalvelimia"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "Lisäyshetkellä"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Joka kerta"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Ladataan tarvittavaa binääritiedostoa kohteelle '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Tunnistautumisen käyttäjätunnus"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Tunnistautumisen salasana"
 
 # Interface
 #~ msgctxt "#30100"
@@ -921,3 +921,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Pakota käynnistys kirjastona"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Älä käynnistä lt2http:tä (asiakastila)"

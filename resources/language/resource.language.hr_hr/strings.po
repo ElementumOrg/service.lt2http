@@ -242,7 +242,7 @@ msgstr "Onemogući zvuk obavijesti"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "lt2http se srušio, ponovno pokretanje..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -250,7 +250,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Nije pronađena izvršna datoteka lt2http[CR]Potrebna platforma:"
 
 msgctxt "#30106"
 msgid "File"
@@ -623,7 +623,7 @@ msgstr "Koristi libtorrent.config za zaobilaženje postavki torrent pogona"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Nalazi se u datoteci USERDATA/service.lt2http/libtorrent.config[CR]Postavke se primjenjuju automatski. Više na https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -751,47 +751,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Međuspremnik predreprodukcije"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Ograničenje brzine"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Automatski učitaj torrente pri pokretanju dodatka"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Ograničenja veza"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Dijeljenje"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Dijeli zauvijek (osim ako treba prostora na disku)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Mreža"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Ostalo"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Veličina predmemorije (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Omogući predmemoriju ako se koristi pohrana u datoteku i imate probleme s brzinom.[CR]Koristit će se više memorije, što može poboljšati brzinu."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "Pokretanje dodatka"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -799,11 +799,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Vremensko ograničenje za razrješavanje magnet poveznica (sekunde)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Vrsta platforme aplikacije"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -815,7 +815,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Ponovno pokreni dodatak lt2http"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -831,67 +831,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Koje datoteke treba preuzeti"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Samo datoteku reprodukcije"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Datoteke sezone"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Sve datoteke"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "Onemogući LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Dodaj dodatne pratitelje"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Svi poznati pratitelji"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Najbolji pratitelji"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Najmanji skup"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Ukloni izvorne pratitelje iz torrenta"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Promijeni pratitelje u torrentu"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "U vrijeme dodavanja"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Svaki puta"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Preuzimanje potrebne binarne datoteku za '%s'"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Korisničko ime za prijavu"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Lozinka za prijavu"
 
 # Interface
 #~ msgctxt "#30100"
@@ -933,3 +933,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Prisili pokretanje kao zbirka"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Ne pokreći lt2http (način klijenta)"

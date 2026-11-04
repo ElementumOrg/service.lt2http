@@ -23,7 +23,7 @@ msgstr "Általános"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Letöltési útvonal"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -171,47 +171,47 @@ msgstr "User agent átejtés (nagyon nem ajánlott)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Alapértelmezett ajánlott (elfogadható)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
-msgstr ""
+msgstr "libtorrent (Rasterbar) 1.1.0"
 
 msgctxt "#30077"
 msgid "BitTorrent 7.5.0"
-msgstr ""
+msgstr "BitTorrent 7.5.0"
 
 msgctxt "#30078"
 msgid "BitTorrent 7.4.3"
-msgstr ""
+msgstr "BitTorrent 7.4.3"
 
 msgctxt "#30079"
 msgid "µTorrent 3.4.9"
-msgstr ""
+msgstr "µTorrent 3.4.9"
 
 msgctxt "#30080"
 msgid "µTorrent 3.2.0"
-msgstr ""
+msgstr "µTorrent 3.2.0"
 
 msgctxt "#30081"
 msgid "µTorrent 2.2.1"
-msgstr ""
+msgstr "µTorrent 2.2.1"
 
 msgctxt "#30082"
 msgid "Transmission 2.92"
-msgstr ""
+msgstr "Transmission 2.92"
 
 msgctxt "#30083"
 msgid "Deluge 1.3.6.0"
-msgstr ""
+msgstr "Deluge 1.3.6.0"
 
 msgctxt "#30084"
 msgid "Deluge 1.3.12.0"
-msgstr ""
+msgstr "Deluge 1.3.12.0"
 
 msgctxt "#30085"
 msgid "Vuze 5.7.3.0"
-msgstr ""
+msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
@@ -240,7 +240,7 @@ msgstr "Értesítési hang letiltása"
 # Interface
 msgctxt "#30100"
 msgid "lt2http has crashed, restarting..."
-msgstr ""
+msgstr "Az lt2http összeomlott, újraindítás..."
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within lt2http"
@@ -248,7 +248,7 @@ msgstr ""
 
 msgctxt "#30103"
 msgid "Unable to find lt2http binary[CR]Required platform:"
-msgstr ""
+msgstr "Az lt2http program nem található[CR]Szükséges platform:"
 
 msgctxt "#30106"
 msgid "File"
@@ -357,19 +357,19 @@ msgstr "RAR archívum észlelve. A lejátszáshoz meg kell várni az egész torr
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Letöltések tárolási típusa"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Fájlok használata"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Memória használata"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Memória mérete torrentenként (MB)"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -381,43 +381,43 @@ msgstr ""
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Tárolás"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "TCP letiltása"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "UTP letiltása"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Konfiguráció újratöltése..."
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Nem található bináris fájl a(z) '%s' architektúrához![CR]Próbáld eltávolítani ezt a kiegészítőt, letölteni újra, és a legnagyobb zip-ből telepíteni."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Szokásos fájlokat hoz létre a fájlrendszeren, és azokba ír.[CR]A kiválasztott fájl teljes méretének elérhetőnek kell lennie a lemezen!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Az eszköz memóriáját használja a torrent részeinek letöltéséhez.[CR]A lemezt csak a .torrent fájl letöltésére és mentésére használja,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "így bármilyen tároló lehet. 1 GB memóriájú eszközökhöz[CR]100 MB elég, nagyobb eszközökhöz 200-250 MB."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "Ugyanaz, mint a szokásos fájltárolás, de sok kis fájlra bontja a fájlt.[CR]FAT-32 fájlrendszereken érdemes használni."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "Ugyanaz, mint a szokásos fájltárolás, de memóriát használ[CR]a fájlrendszer-műveletek csökkentésére. Kísérleti tároló!"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -425,15 +425,15 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Feltöltés letiltása"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Hálózati IP automatikus hozzárendelése"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Hálózati portok automatikus hozzárendelése"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -445,31 +445,31 @@ msgstr ""
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Memóriaméret automatikus kiválasztása"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "A méret automatikusan kerül kiválasztásra a[CR]rendelkezésre álló fizikai memória alapján"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Memóriahasználat engedélyezése"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Minimum - 40 MB, Alapértelmezett - 8%, Maximum - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
@@ -497,11 +497,11 @@ msgstr ""
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Bővítmény kapcsolódása"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Helyi port"
 
 msgctxt "#30410"
 msgid "Remote port"
@@ -517,7 +517,7 @@ msgstr ""
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "Torrentek betöltése a torrents mappából indításkor"
 
 msgctxt "#30431"
 msgid "By show name"
@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Torrent fájlok útvonala"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -573,11 +573,11 @@ msgstr ""
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Egyidejű kapcsolatok korlátja"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Egyidejű kapcsolatok automatikus korlátja"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
@@ -589,43 +589,43 @@ msgstr ""
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Belső HTTP proxy"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Proxy használata a .torrent fájlok letöltéséhez"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Proxy használata a trackerekhez"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Proxy használata a torrentek letöltéséhez"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "A memóriaméret automatikus igazítása[CR]nagy torrentekhez, ha lehetséges"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "A puffer méretének automatikus igazítása[CR]nagy torrentekhez"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Puffer igazítása a Kodi advancedsettings beállításaihoz, ha vannak"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "A libtorrent.config használata a torrent motor beállításainak felülbírálásához"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/service.lt2http/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "A USERDATA/service.lt2http/libtorrent.config fájlban található[CR]A beállítások automatikusan érvényesülnek. Bővebben: https://libtorrent.org."
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "A libtorrent naplózásának engedélyezése"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
@@ -645,23 +645,23 @@ msgstr ""
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "libtorrent beállítási profil"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Minimális memória"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Nagy sebesség"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Torrentek betöltése szüneteltetve a torrents mappából"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
@@ -669,11 +669,11 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "A libtorrent határidőinek használata"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "A libtorrent szüneteltetés/folytatás trükkjének használata a hozzáadott torrenteknél"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
@@ -717,11 +717,11 @@ msgstr ""
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
-msgstr ""
+msgstr "Puffer mérete a fájl végén (MB)"
 
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
-msgstr ""
+msgstr "Puffer mérete a fájl elején (MB)"
 
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
@@ -749,47 +749,47 @@ msgstr ""
 
 msgctxt "#30588"
 msgid "Pre-Play Buffering"
-msgstr ""
+msgstr "Pufferelés a lejátszás előtt"
 
 msgctxt "#30589"
 msgid "Speed limiting"
-msgstr ""
+msgstr "Sebességkorlátozás"
 
 msgctxt "#30590"
 msgid "Torrents autoload on plugin startup"
-msgstr ""
+msgstr "Torrentek automatikus betöltése a bővítmény indításakor"
 
 msgctxt "#30591"
 msgid "Connection limits"
-msgstr ""
+msgstr "Kapcsolatkorlátok"
 
 msgctxt "#30592"
 msgid "Seeding"
-msgstr ""
+msgstr "Megosztás"
 
 msgctxt "#30593"
 msgid "Seed forever (unless disk space needed)"
-msgstr ""
+msgstr "Megosztás örökké (hacsak nem kell a lemezterület)"
 
 msgctxt "#30594"
 msgid "Network"
-msgstr ""
+msgstr "Hálózat"
 
 msgctxt "#30595"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Egyebek"
 
 msgctxt "#30597"
 msgid "Cache size (MB)"
-msgstr ""
+msgstr "Gyorsítótár mérete (MB)"
 
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
-msgstr ""
+msgstr "Engedélyezd a gyorsítótárazást, ha fájltárolást használsz és sebességproblémáid vannak.[CR]Több memóriát használ, de javíthatja a sebességet."
 
 msgctxt "#30603"
 msgid "Addon Startup"
-msgstr ""
+msgstr "A kiegészítő indítása"
 
 msgctxt "#30609"
 msgid "Automatically start next episode if available"
@@ -797,11 +797,11 @@ msgstr ""
 
 msgctxt "#30610"
 msgid "Magnet resolve timeout (seconds)"
-msgstr ""
+msgstr "Magnet hivatkozás feloldásának időkorlátja (másodperc)"
 
 msgctxt "#30611"
 msgid "Application platform type"
-msgstr ""
+msgstr "Az alkalmazás platformtípusa"
 
 msgctxt "#30613"
 msgid "... for movie"
@@ -813,7 +813,7 @@ msgstr ""
 
 msgctxt "#30620"
 msgid "Restart lt2http addon"
-msgstr ""
+msgstr "Az lt2http bővítmény újraindítása"
 
 msgctxt "#30622"
 msgid "Checking"
@@ -829,67 +829,67 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Which files to download"
-msgstr ""
+msgstr "Mely fájlokat töltse le"
 
 msgctxt "#30654"
 msgid "Only playback file"
-msgstr ""
+msgstr "Csak a lejátszandó fájlt"
 
 msgctxt "#30655"
 msgid "Season files"
-msgstr ""
+msgstr "Az évad fájljait"
 
 msgctxt "#30656"
 msgid "All files"
-msgstr ""
+msgstr "Az összes fájlt"
 
 msgctxt "#30657"
 msgid "Disable LSD"
-msgstr ""
+msgstr "LSD letiltása"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "További trackerek hozzáadása"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Az összes ismert tracker"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "A legjobb trackerek"
 
 msgctxt "#30661"
 msgid "Minimum set"
-msgstr ""
+msgstr "Minimális készlet"
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Az eredeti trackerek eltávolítása a torrentből"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "A trackerek módosítása a torrentben"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "A hozzáadás pillanatában"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Minden alkalommal"
 
 msgctxt "#30667"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "A(z) '%s' számára szükséges bináris fájl letöltése"
 
 msgctxt "#30668"
 msgid "Authentication Login"
-msgstr ""
+msgstr "Hitelesítési felhasználónév"
 
 msgctxt "#30669"
 msgid "Authentication Password"
-msgstr ""
+msgstr "Hitelesítési jelszó"
 
 # Interface
 #~ msgctxt "#30100"
@@ -919,3 +919,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr "Indítás kényszerítése médiatárként"
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr "Ne indítsa el az lt2http-t (kliens mód)"
