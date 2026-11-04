@@ -892,3 +892,7 @@ msgstr ""
 msgctxt "#30670"
 msgid "Force start as a library"
 msgstr ""
+
+msgctxt "#30671"
+msgid "Do not start lt2http (client mode)"
+msgstr ""
